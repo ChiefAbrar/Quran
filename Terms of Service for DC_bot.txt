@@ -1,0 +1,43 @@
+Terms of Service for Quran Discord bot
+
+Last updated: 9 September 2024
+1. Acceptance of Terms
+
+By using Quran Discord bot (the “Bot”), you agree to these Terms of Service. If you do not agree to these terms, you are not permitted to use the Bot.
+2. Changes to Terms
+
+We may revise these Terms of Service from time to time. The most current version will be posted, and you are responsible for reviewing the updated terms.
+3. Description of Service
+
+Quran Discord bot is a Discord bot that provides Quran verse lookup. The Bot is provided "as-is," and we do not guarantee that the Bot will be free from errors or interruptions.
+4. User Responsibilities
+
+When using the Bot, you agree:
+
+    Not to use the Bot for illegal or harmful activities.
+    Not to use the Bot to harass, abuse, or harm other users.
+    Not to manipulate or exploit the Bot in ways that were not intended by the developer.
+
+5. Bot Usage Restrictions
+
+You agree not to:
+
+    Attempt to reverse engineer or disassemble the Bot.
+    Use automated systems to access the Bot in ways that may disrupt its functionality or overload its servers.
+    Use the Bot in any way that violates the terms and policies of Discord.
+
+6. Intellectual Property
+
+The Bot and all related intellectual property rights are owned by ChiefAbrar. You are not permitted to use any of the Bot’s code, name, or branding for commercial purposes without explicit permission.
+7. Liability
+
+To the maximum extent permitted by law, we will not be held liable for any damages or losses arising from the use of the Bot. The Bot is provided without warranties of any kind, including implied warranties of merchantability or fitness for a particular purpose.
+8. Termination
+
+We reserve the right to terminate or suspend access to the Bot at any time, with or without notice, for any reason, including but not limited to violating these terms.
+9. Governing Law
+
+These terms are governed by and construed in accordance with the laws of General law. You agree that any legal disputes will be handled within General law.
+10. Contact Information
+
+If you have any questions about these Terms of Service, you can contact us at the given email.
