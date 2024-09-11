@@ -1,0 +1,29 @@
+Privacy Policy for Quran Discord bot
+
+Last updated: 9th September 2024
+1. Information We Collect
+
+Quran Discord bot does not collect any personal data from users. However, when you interact with the bot, it may temporarily process:
+
+    Usernames and message content: This is necessary for the bot to function and respond to your commands.
+    Command usage: We may log command usage for debugging or improving the bot’s performance.
+
+2. How We Use the Information
+
+We only use the information to:
+
+    Provide bot responses and fulfill user requests.
+    Monitor and improve the performance of the bot.
+
+3. Data Retention
+
+The bot does not store any personal information long-term. Temporary information such as messages and usernames is processed only during bot operation and is not stored after the interaction ends.
+4. Data Sharing
+
+We do not share any data with third parties unless required by law.
+5. Changes to This Policy
+
+We may update this Privacy Policy from time to time. You can always find the latest version at [Your Link].
+6. Contact Us
+
+If you have any questions about this Privacy Policy, you can contact us at the email given.
